@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestingLibrary</string>
+    <string name="toast_message">Library Successfully Connected!</string>
+</resources>
