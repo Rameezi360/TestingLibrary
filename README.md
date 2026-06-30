@@ -15,9 +15,3 @@ dependencyResolutionManagement {
         maven { url = uri("[https://jitpack.io](https://jitpack.io)") } // Add this line
     }
 }
-
-Step 2: Add the dependency in your app-level build.gradle.kts file:
-
-dependencies {
-    implementation("com.github.Rameezi360:TestingLibrary:1.0.0")
-}
